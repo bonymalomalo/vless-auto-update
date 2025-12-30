@@ -25,7 +25,7 @@ decoded_data = base64.b64decode(
     raw_data, validate=False
 ).decode("utf-8", errors="ignore")
 """
-decoded_data = raw_data
+decoded_data = raw_data.decode()
 
 with open(DUMP_DECODED, "w", encoding="utf-8") as f:
     f.write(decoded_data)
