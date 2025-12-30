@@ -10,7 +10,7 @@ URL = "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.
 
 DUMP_RAW = "dump_raw.txt"
 DUMP_DECODED = "dump.txt"
-VLESS_ALL = "vl.txt"
+VLESS_ALL = "vless.txt"
 VLESS_RUNAPP = "vless_runapp.txt"
 
 print("[+] Téléchargement...")
