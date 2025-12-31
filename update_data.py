@@ -4,46 +4,81 @@ import urllib.request
 
 WORKDIR = "vless-scan"
 os.makedirs(WORKDIR, exist_ok=True)
-os.chdir(WORKDIR)
 
-URL = "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt"
+URLS = [
+    "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
+    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vless_configs.txt",
+    "https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/1.txt",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS",
+    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt",
+    ""
+]
 
-DUMP_RAW = "dump_raw.txt"
-DUMP_DECODED = "dump.txt"
-VLESS_ALL = "vless.txt"
-VLESS_RUNAPP = "vless_runapp.txt"
+URLS_B64 = [
+    "https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vless.txt",
+    "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/4.txt",
+    "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Splitted-By-Protocol/vless.txt"
+]
 
-print("[+] Téléchargement...")
-urllib.request.urlretrieve(URL, DUMP_RAW)
+VLESS_ALL = os.path.join(WORKDIR, "vless.txt")
+VLESS_RUNAPP = os.path.join(WORKDIR, "vless_runapp.txt")
 
-print("[+] Décodage Base64...")
-with open(DUMP_RAW, "rb") as f:
-    raw_data = f.read()
 
-"""
-decoded_data = base64.b64decode(
-    raw_data, validate=False
-).decode("utf-8", errors="ignore")
-"""
-decoded_data = raw_data.decode()
+def fetch(url):
+    try:
+        with urllib.request.urlopen(url, timeout=20) as r:
+            return r.read()
+    except Exception as e:
+        print(f"[-] Erreur téléchargement {url} : {e}")
+        return b""
 
-with open(DUMP_DECODED, "w", encoding="utf-8") as f:
-    f.write(decoded_data)
 
-with open(DUMP_DECODED, "r", encoding="utf-8") as f:
-    vless_links = [line.strip() for line in f if line.startswith("vless://")]
+def decode_sources(urls, base64_encoded=False):
+    sources = []
+    for url in urls:
+        raw = fetch(url)
+        if not raw:
+            continue
 
-if not vless_links:
+        try:
+            if base64_encoded:
+                data = base64.b64decode(raw, validate=False).decode("utf-8", "ignore")
+            else:
+                data = raw.decode("utf-8", "ignore")
+
+            sources.append({"url": url, "data": data})
+        except Exception as e:
+            print(f"[-] Erreur décodage {url} : {e}")
+
+    return sources
+
+
+sources = []
+sources += decode_sources(URLS, base64_encoded=False)
+sources += decode_sources(URLS_B64, base64_encoded=True)
+
+vless_all = set()
+vless_runapp = set()
+
+for src in sources:
+    for line in src["data"].splitlines():
+        if line.startswith("vless://"):
+            vless_all.add(line.strip())
+            if ".run.app" in line:
+                vless_runapp.add(line.strip())
+
+if not vless_all:
     print("[-] Aucun lien VLESS trouvé")
     exit(0)
 
 with open(VLESS_ALL, "w", encoding="utf-8") as f:
-    f.write("\n".join(vless_links))
-
-vless_runapp = [v for v in vless_links if ".run.app" in v]
+    f.write("\n".join(sorted(vless_all)))
 
 with open(VLESS_RUNAPP, "w", encoding="utf-8") as f:
-    f.write("\n".join(vless_runapp))
+    f.write("\n".join(sorted(vless_runapp)))
 
-print(f"[✓] Total VLESS : {len(vless_links)}")
+print(f"[✓] Total VLESS uniques : {len(vless_all)}")
 print(f"[✓] VLESS .run.app : {len(vless_runapp)}")
