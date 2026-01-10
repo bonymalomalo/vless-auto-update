@@ -32165,7 +32165,6 @@ vless://93b108f8-e479-41b5-94f7-6e429352bfbc@tnl39.vipradvin.ir:8220?encryption=
 vless://93b4684b-8f0e-4faa-bee8-09e098d5bef4@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-230
 vless://93b99881-df03-4597-9146-0c11e46387f7@14.45.190.97:12371?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
 vless://93b99881-df03-4597-9146-0c11e46387f7@166.0.188.128:16131?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
-vless://93b99881-df03-4597-9146-0c11e46387f7@38.6.219.151:11283?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://93b99881-df03-4597-9146-0c11e46387f7@45.136.199.179:28443?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
 vless://93b99881-df03-4597-9146-0c11e46387f7@47.245.113.31:20360?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
 vless://93b99881-df03-4597-9146-0c11e46387f7@89.208.253.36:15170?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#@Hope_Net-join-us-on-Telegram
