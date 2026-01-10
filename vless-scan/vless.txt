@@ -14132,7 +14132,6 @@ vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?encryption=none&
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#@Vip_Security join us - 792
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp&sni=api.avito.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp&sni=api.avito.ru#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp&sni=api.avito.ru#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp&sni=api.avito.ru#@Vip_Security join us - 793
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1 # 🔒 [By EbraSha]
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#4Mohsen-5690
@@ -30740,6 +30739,7 @@ vless://8aa48fb3-9429-4029-8dd4-4ba7fe15ad01@www.speedtest.net:8880?path=🔒 [B
 vless://8aa48fb3-9429-4029-8dd4-4ba7fe15ad01@zula.ir:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade # 🔒 [By EbraSha]
 vless://8aa48fb3-9429-4029-8dd4-4ba7fe15ad01@zula.ir:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=www.website-shop.ir&type=httpupgrade # 🔒 [By EbraSha]
 vless://8ab33d56-3288-40fa-9f4f-8e438119941c@adsth27.netpilotserverne22twork.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=b7b70c104ad267b8 # 🔒 [By EbraSha]
+vless://8ab9242b-62d7-490d-8741-90d586cf3d1b@46.245.72.11:9050?security=none&type=tcp&host=skype.com&headerType=http#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://8ab9242b-62d7-490d-8741-90d586cf3d1b@46.245.72.11:9050?security=none&type=tcp&host=skype.com&headerType=http#@Vip_Security join us - 1460
 vless://8ac2177a-f28f-4af3-b200-2ccc13587cdf@172.64.34.232:443/?type=ws&encryption=none&host=6bqv96.losanglesapps.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 # 🔒 [By EbraSha]
 vless://8ac2561c-c95e-452b-bc7d-dbc3d67f2c54@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed=2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#🇺🇸US_1479_@Surfboardv2ray
