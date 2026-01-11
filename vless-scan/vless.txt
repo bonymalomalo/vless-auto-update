@@ -43547,6 +43547,7 @@ vless://c77e0cd0-f244-446f-9176-102dfe9fd3fa@tn14.radmehrmax.ir:8088?encryption=
 vless://c780cadb-7675-4368-bbda-a85c36f4a6ef@65.109.212.109:2096/?type=ws&encryption=none&host=fl.laknes.wiki&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&security=tls&sni=fl.laknes.wiki&alpn=http%2F1.1&fp=chrome#%40V2rayMiner
 vless://c78bce12-1796-466f-b8a0-800c32b06679@ir2.servertopia.top:4555?type=tcp&security=none # 🔒 [By EbraSha]
 vless://c78e34bb-4840-443f-8e9b-c400c2043530@en.sardarr.top:2035?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp # 🔒 [By EbraSha]
+vless://c78e34bb-4840-443f-8e9b-c400c2043530@en.sardarr.top:2035?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://c78e34bb-4840-443f-8e9b-c400c2043530@en.sardarr.top:2035?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#4Nika-7315
 vless://c78e34bb-4840-443f-8e9b-c400c2043530@en.sardarr.top:2035?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@Vip_Security join us - 2054
 vless://c78e34bb-4840-443f-8e9b-c400c2043530@en.sardarr.top:2035?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#IR_654_@Surfboardv2ray
