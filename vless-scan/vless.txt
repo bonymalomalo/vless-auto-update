@@ -23504,6 +23504,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=speedtest.net&security=tls&type=ws # [ By EbraSha ]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.96:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#4Kian-6840
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.96:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.96:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=sni.111000.dynv6.net&path=🔒 [By EbraSha] vless-SG # 🔒 [By EbraSha]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#4Kian-6841
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#Join+Telegram:@Farah_VPN
@@ -44703,6 +44704,7 @@ vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sn
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sni=api.livecut.cc&type=ws&headerType=none&host=api.livecut.cc&path=/music#TW_937_@Surfboardv2ray
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=api.livecut.cc&path=🔒 [By EbraSha] # 🔒 [By EbraSha]
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=api.livecut.cc&path=🔒 [By EbraSha] 1888 # 🔒 [By EbraSha]
+vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=api.livecut.cc&path=🔒 [By EbraSha] vless-TW # 🔒 [By EbraSha]
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&type=ws&headerType=none&host=speedtest.net # [ By EbraSha ]
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=api.livecut.cc&type=ws&host=api.livecut.cc&path=%2Fmusic#%E5%8F%B0%E6%B9%BE%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=api.livecut.cc&type=ws&host=api.livecut.cc&path=%2Fmusic#4Kian-8064
@@ -44712,7 +44714,6 @@ vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=api.livecut.cc&type=ws&host=api.livecut.cc&path=/music#TW_938_@Surfboardv2ray
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=api.livecut.cc&type=ws&host=api.livecut.cc&path=/music#[By EbraSha] vless-TW
 vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=api.livecut.cc&type=ws&host=api.livecut.cc&path=/music#[openproxylist.com] vless-TW
-vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=api.livecut.cc&path=🔒 [By EbraSha] vless-TW # 🔒 [By EbraSha]
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@104.16.4.103:443?security=tls&sni=Mahsa1.PagES.DEV&type=ws&host=mahsa1.pages.dev&path=%2Fassets%2Fimages&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.103:443
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@104.16.4.103:443?security=tls&sni=Mahsa1.PagES.DEV&type=ws&host=mahsa1.pages.dev&path=%2Fassets%2Fimages&fp=randomized&alpn=http%2F1.1#🔗 Vauth - 3203
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@104.19.173.26:443?security=tls&sni=Mahsa1.PagES.DEV&type=ws&host=mahsa1.pages.dev&path=%2Fassets%2Fimages&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.173.26:443
